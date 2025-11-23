@@ -8,5 +8,9 @@ namespace ConsoleHome
 {
     internal class NewClass
     {
+        public string Name()
+        {
+            Console.WriteLine("Группа разработчиков C#8")
+        }
     }
 }
