@@ -10,7 +10,7 @@ namespace ConsoleHome
     {
         public string Name()
         {
-            Console.WriteLine("Группа C#8")
+            Console.WriteLine("Группа разработчиков C#8")
         }
-    }
+        }  
 }
